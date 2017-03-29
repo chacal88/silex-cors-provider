@@ -1,5 +1,5 @@
 {
-  "name": "mrprompt/silex-cors-provider",
+  "name": "chacal/silex-cors-provider",
   "description": "A simple CORS provider to Silex Rest APIs based.",
   "type": "library",
   "license": "BSD-3-Clause",
@@ -11,9 +11,9 @@
       "role": "Developer"
     },
     {
-      "name" : "Marcel Araujo",
-      "email" : "admin@marcelaraujo.me",
-      "homepage" : "http://blog.marcelaraujo.me",
+      "name" : "Kaue Rodrigues",
+      "email" : "kauemsc@gmail.com",
+      "homepage" : "",
       "role" : "Developer"
     }
   ],
